@@ -1,4 +1,2 @@
 # oliviasl.github.io
-Personal Website
-
-Made with Vue.js
+Personal Website -- Made with Vue.js
